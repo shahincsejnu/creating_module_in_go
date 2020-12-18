@@ -2,7 +2,7 @@ package testmod
 
 import "fmt"
 
-// Hi returns a friendly greeting
+// Hi returns a just friendly greeting
 
 func Hi(name string) string {
 	return fmt.Sprintf("Hi, %s", name)
